@@ -1,5 +1,6 @@
 ### Optimization Class 1
-> Optimization in the number of (Complemented Edges)CEs if we follow the variable propagation either from left to right or right to left. 
+> Optimization in the number of (Complemented Edges)CEs if we follow the variable propagation either from left to right or right to left between reconvergent and nonreconvergent
+boolean variable.
 
  The transformation rules in this class are as follows:
 
