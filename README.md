@@ -5,8 +5,10 @@
 
 There are four permutable pairs for Majority and Minority logic possible shown in below figure,
 
-![Permutable Pairs of mMIG](https://github.com/mr-easy1/mMIG-Optimization/blob/main/permutable%20pairs1.PNG)
+![Permutable Pairs of mMIG1](https://github.com/mr-easy1/mMIG-Optimization/blob/main/permutable%20pairs1.PNG)
 
 Upon considering the reconvergent and nonreconvergent boolean variable there are 12 basic topology shown in below figure,
 
+
+![Permutable pairs of mMIG2](https://github.com/mr-easy1/mMIG-Optimization/blob/main/permutable%20pairs2.PNG)
 
