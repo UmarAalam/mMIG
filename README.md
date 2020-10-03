@@ -12,3 +12,5 @@ Upon considering the reconvergent and nonreconvergent boolean variable, there ar
 
 ![Permutable pairs of mMIG2](https://github.com/mr-easy1/mMIG-Optimization/blob/main/permutable%20pairs2.PNG)
 
+
+
