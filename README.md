@@ -1,4 +1,4 @@
-# mMIG Optimization
+# Sample Analysis of mMIG Optimization
 ## Optimization rules in mMIG
 > In graph-based logic networks, the transformation rules are decisive in determining the extent of achieved optimization. The rules can take multiple forms for the same
   graph topology. Selection of desirable transformation is done on the basis of which transformation leads to lesser resource count.
